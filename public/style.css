@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    
+}
+
+.header{
+    color: rgb(23, 0, 128);
+    text-align: center;
+    background-color: cyan;
+}
+
+
+.exercise {
+    text-align: center;
+    width: 90%;
+       
+}
